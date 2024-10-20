@@ -16,17 +16,43 @@ The following Python libraries are used in this project:<br>
 - data_entry: Custom module for collecting data like amount, category, date, and description.<br>
 - matplotlib (import matplotlib.pyplot as plt): For generating visual graphs of your expense data.<br>
 
+# 🚀 Getting Started
+Follow these instructions to set up and run the project locally:
+
+# Prerequisites
+Ensure that latest version of Python is installed on your machine. You can download it [here](https://www.python.org/downloads/).
+
+### Installation
+
+1. **Fork the Repository**:  
+   This project was originally forked from [Tech With Tim's Repo](https://github.com/techwithtim/expense-tracker).
+
+2. **Clone the repository**:
+   ```bash
+   git clone https://https://github.com/vishwa8622/Personal-Finance-Tracker.git
+   cd Personal-Finance-Tracker
+   
+3. **Install the required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Run the tracker**:
+   ```bash
+   python tracker.py
+
+   
 # 🎯 Future Enhancements
-- Multi-Currency Support: Enable multi-currency tracking.<br>
-- Cloud Sync: Allow synchronization across multiple devices.<br>
-- AI-Powered Insights: Provide personalized financial tips and insights based on spending patterns.<br>
+- Multi-Currency Support: Enable tracking across different currencies.<br>
+- Cloud Sync: Allow synchronization of expense data across devices.<br>
+- AI-Powered Insights: Provide personalized financial tips based on your spending patterns.<br>
 
 # 📜 Credits
-
-This project is forked from [Tech With Tim's Expense Tracker](https://github.com/techwithtim/expense-tracker). Thanks to Tech With Tim for the original codebase. Thanks to Tech With Tim for the original codebase.<br>
+This project is forked from [Tech With Tim's GitHub repository](https://github.com/techwithtim/Personal-Finance-Tracker). Thanks to Tech With Tim for the original codebase.
 
 # 📝 License
-This project is licensed under the MIT License, following the original repository's license terms.<br>
+This project is licensed under the MIT License, following the original repository's license terms.
+
+
 
 
 
